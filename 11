@@ -1,0 +1,11 @@
+Question,Answer
+"I would like to book a table", book_table
+"We need a table", book_table
+"When we can have a dinner", book_table
+"Could you describe me your menu", "We serve mediterranean cuisine"
+"What’s your cuisine", "We serve mediterranean cuisine"
+"What type of meals do your serve", "We serve mediterranean cuisine"
+"Where I can find your restaurant", "We are located on 5ft Aveny 24"
+"Where are you located", "We are located on 5ft Aveny 24"
+"What’s your open hours","We are open from 11AM till  to 11PM"
+"When you are open","We are open from 11AM till  to 11PM"
